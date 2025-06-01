@@ -1,7 +1,7 @@
 .controller {
   background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%202600/base.png') no-repeat;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   position: relative;
 }
 
@@ -10,8 +10,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   pointer-events: none;
 }
 
@@ -21,8 +21,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   pointer-events: none;
 }
 
@@ -32,8 +32,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   pointer-events: none;
 }
 
@@ -43,8 +43,8 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   pointer-events: none;
 }
 
@@ -54,7 +54,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
-  height: 300px;
+  width: 894px;
+  height: 894px;
   pointer-events: none;
 }
