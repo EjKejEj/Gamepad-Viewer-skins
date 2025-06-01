@@ -1,0 +1,60 @@
+body {
+  background-color: red;
+  margin: 0;
+  padding: 0;
+}
+
+/* Controller container */
+.controller {
+  width: 894px;
+  height: 894px;
+  background-image: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/base.png");
+  background-size: cover;
+  position: relative;
+}
+
+/* Fire Button Pressed Overlay */
+.button-0.pressed::after {
+  content: "";
+  background: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/button_pressed.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  width: 894px;
+  height: 894px;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Arrow Overlays */
+.axis-0.axis-left::after,
+.axis-0.axis-right::after,
+.axis-1.axis-up::after,
+.axis-1.axis-down::after {
+  content: "";
+  background-size: cover;
+  position: absolute;
+  width: 894px;
+  height: 894px;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.axis-0.axis-left::after {
+  background-image: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/arrow_left.png");
+}
+
+.axis-0.axis-right::after {
+  background-image: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/arrow_right.png");
+}
+
+.axis-1.axis-up::after {
+  background-image: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/arrow_up.png");
+}
+
+.axis-1.axis-down::after {
+  background-image: url("https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari2600/arrow_down.png");
+}
