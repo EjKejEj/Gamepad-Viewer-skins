@@ -1,8 +1,7 @@
 .controller {
   width: 894px;
   height: 894px;
-  background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%2520600/base.png
-') no-repeat center center;
+  background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%2520600/base.png') no-repeat center center;
   background-size: contain;
   position: relative;
   overflow: hidden;
