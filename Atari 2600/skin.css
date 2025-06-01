@@ -1,12 +1,10 @@
-/* Base controller image */
 .controller {
   background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%202600/base.png') no-repeat;
-  width: 300px;   /* Adjust based on your image size */
+  width: 300px;
   height: 300px;
   position: relative;
 }
 
-/* Button pressed overlay */
 .button-0.pressed {
   background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%202600/button_pressed.png') no-repeat;
   position: absolute;
@@ -17,7 +15,6 @@
   pointer-events: none;
 }
 
-/* Directional overlays */
 .stick-0.up.pressed::after {
   content: '';
   background: url('https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/main/Atari%202600/arrow_up.png') no-repeat;
