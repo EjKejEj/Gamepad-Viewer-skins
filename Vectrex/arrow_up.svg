@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 432" width="528" height="432">
+	<title>arrow_up</title>
+	<defs>
+		<image  width="17" height="16" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAMAAADH72RtAAAAAXNSR0IB2cksfwAAAFpQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////WTK3vQAAAB50Uk5TAAKKth3N/wEu+qIF4YQnpknEyApoYuy/vP5AX3dFPR7XyQAAAKNJREFUeJxNkOEOgjAMhHtKnIoCAsZE4/s/mNHECAhTVAxa6TaI+9FbvnZ36UD2gMHu5sgI/P0nHjplbgeigA/RmLkZZuam6z2GGR9vkQnXPVk21lTdHAleLpCm2pLw2ZNZZUhkDP3aRJRC4ru4qkbcF0VHUi3N8LKuRIMMCkFJtDoTba6dg2aQlxZJnp6ItlmSx1krWTvgIC/2zMd+C/sTtv4A2N8zGPYXjEsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="124" y="154"/>
+</svg>
