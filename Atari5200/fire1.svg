@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 428" width="190" height="428">
+	<title>fire1</title>
+	<defs>
+		<image  width="170" height="52" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAAA0BAMAAADoNL6CAAAAAXNSR0IB2cksfwAAABhQTFRF/wAA/wAA/wAAAAAA/wAA/wAA/wAA////A8HXYgAAAAh0Uk5T1/z9AP7q///NB1HTAAAAXElEQVR4nO3UQRGAMBBD0Q0VwEpAApWAGbCLECgKOsXE7oHhR8CbXBJpmdxCo1a0Wz9j1bIaKioqKipqlup3tFqHjjlc3Z6krqioSSvwK3wF41vvgoqKior6d/UFa1WGvIRCyCEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="10" y="26"/>
+</svg>
