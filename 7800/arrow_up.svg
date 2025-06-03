@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493 251" width="493" height="251">
+	<title>arrow_up</title>
+	<defs>
+		<image  width="30" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAZCAMAAAAR624oAAAAAXNSR0IB2cksfwAAAJZQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCXFqAAAADJ0Uk5TACAmLR8yabLa7K9nMRHu8P+RM7NV1Xga95o8vF8B3oEjoxe5C52cDH99vv0Jbzmtw9AR6j8eAAABD0lEQVR4nG2SW0/CQBCF51AwVRGFCopovMTExBD//+8wvPCkhotoBRXxEsSO3WXbnW07L+3p13Zn5hyQKADEpZV8Ym8rWGNgUYB3FFTFzB95XGf7zWsONyJxZGmWxcGfwN40g/dlv0TlFxc3fx1cCR3cWpJbG88CH+Ang31+srj9TdnafEzx0VeOEm2NE9z5LMDbI4OPFwWUqDrU+ARzeyLZLmo8UPj0XfRLYobdhxifvdn/xdPKDezdg85Te9a7Evur3+EC01TqTYvtB4xLhIkyPlnvWhGuMEmUcdk6345AjUOMtEgzYnLT4ckM1EWoZhEJM6nzm9xT15tY9mU+q7y6jl+/TRzz3HTrxOsG/wFP0FSHdHlWTQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="75" y="14"/>
+</svg>

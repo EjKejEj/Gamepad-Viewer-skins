@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493 251" width="493" height="251">
+	<title>arrow_down</title>
+	<defs>
+		<image  width="30" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAZCAMAAAAR624oAAAAAXNSR0IB2cksfwAAAJZQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wCXFqAAAADJ0Uk5TAC0mHyA5rcPQr2cxsglv9//w7hEzvv2RDH99C52znBe5VaPVI3iBGgHeml+8PDJp2uyieMIzAAABH0lEQVR4nG2S604CQQyFe4hKosGorIogMSoiwcv7v4eXiIr+QPG2qAkaowJ1pux0u3FPsjPbfpnd6WlBXgDGZDUzYRbgnlmIPhUucGHEzL8elxyZfmCQ0DLLUbcOQRHwI9niU4LXv2WbY45RwZf+MJYtGoXE/AQ1fISo1JOtPgyJxTG28K5XWr51y/abxksM2nnVsNx1y+5A45UbUCNOy129or2XNIyuXU3NZ425Qo/QaO3S29LCg2aq1Nf3Db4Q1w7uKU+1s6mpdHiXQzdPKcFHvRxcPwmY2v1/tHpOivfNfUMNnRRnqhU5Bwy2XnmJfwYbp73EfYNNn0h7Z3DaZdLOGxxmxEvnxuBkwjJTZzAdo9sAccfObMYON92Unfg/ifBXbK3h7FcAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="75" y="107"/>
+</svg>
