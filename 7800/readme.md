@@ -2,5 +2,5 @@
 7800 skin for beta.gamepadviewer.com by EjKejEj
 </p>
 <p align="left">
-<img src="" width="https://raw.githubusercontent.com/EjKejEj/Gamepad-Viewer-skins/refs/heads/main/7800/7800.png" width="493" height="251" border="10"/>
+<img src="https://github.com/EjKejEj/Gamepad-Viewer-skins/blob/main/7800/7800.png" width="493" height="251" border="10"/>
 </p>
